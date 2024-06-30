@@ -447,7 +447,7 @@ async def get_shortlink(chat_id, link):
     if "http" == https: #if https == "http":
         https = "https"
         link = link.replace("http", https) #replacing http to https
-    if URL == "api.shareus.io":
+    if URL == "modijiurl.com":
         url = f'https://{URL}/directLink'
         params = {
             "token": API,
