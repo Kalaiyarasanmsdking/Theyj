@@ -159,10 +159,10 @@ async def start(client, message):
                     protect_content=msg.get('protect', False),
                     reply_markup=InlineKeyboardMarkup(
                         [
-                         [InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ⚡', url='https://t.me/vj_bot_disscussion'),
-                          InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/vj_bots')
+                         [InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ⚡', url='https://t.me/KalaiMoviesLinkZz'),
+                          InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/KalaiMoviesLinkZz')
                        ],[
-                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/VJBots_bot")
+                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/MsdKalai07")
                          ]
                         ]
                     )
@@ -177,10 +177,10 @@ async def start(client, message):
                     protect_content=msg.get('protect', False),
                     reply_markup=InlineKeyboardMarkup(
                         [
-                         [InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ⚡', url='https://t.me/vj_bot_disscussion'),
-                          InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/vj_bots')
+                         [InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ⚡', url='https://t.me/KalaiMoviesLinkZz'),
+                          InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/KalaiMoviesLinkZz')
                        ],[
-                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/VJBots_bot")
+                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/MsdKalai07")
                          ]
                         ]
                     )
@@ -248,10 +248,10 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                          [
-                          InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ⚡', url='https://t.me/vj_bot_disscussion'),
-                          InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/vj_bots')
+                          InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ⚡', url='https://t.me/KalaiMoviesLinkZz'),
+                          InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/KalaiMoviesLinkZz')
                        ],[
-                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/VJBots_bot")
+                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/MsdKalai07")
                          ]
                         ]
                     )
@@ -291,10 +291,10 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                          [
-                          InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ⚡', url='https://t.me/vj_bot_disscussion'),
-                          InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/vj_bots')
+                          InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ⚡', url='https://t.me/KalaiMoviesLinkZz'),
+                          InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/KalaiMoviesLinkZz')
                        ],[
-                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/VJBots_bot")
+                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/MsdKalai07")
                          ]
                         ]
                     )
