@@ -6,9 +6,9 @@ If You Want To Create This Type Of Bot Contact Us
 
 🔗 For More Information Contact @VJbots_bot 🔗</b>"""
 
-    ABOUT_TXT = """<b><i>🤖 Mʏ Nᴀᴍᴇ : <a href=https://t.me/YourSearchVJbot><b>Movie Search Bot</b></a>\n
-👑 Oᴡɴᴇʀ : <a href=https://t.me/vjbots_bot><b>🏆 Vijay 🏆</b></a>\n
-📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/vj_Bots><b>⚡ VJ Bots ⚡</b></a>\n
+    ABOUT_TXT = """<b><i>🤖 Mʏ Nᴀᴍᴇ : <a href=http://t.me/Moviefiles1_bot><b>Movie Search Bot</b></a>\n
+👑 Oᴡɴᴇʀ : <a href=http://t.me/KalaiAdmin_Bot><b>🏆 Kalai 🏆</b></a>\n
+📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=http://t.me/Moviefiles1_bot><b>⚡ Kalai Movies ⚡</b></a>\n
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ\n
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3\n
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ\n
@@ -16,7 +16,7 @@ If You Want To Create This Type Of Bot Contact Us
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 ✅ - This Bot Is An Private Project
-✅ - ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/VJ_Bots">⚡ ʜᴇʀᴇ ⚡</a>
+✅ - ꜱᴏᴜʀᴄᴇ - <a href="http://t.me/KalaiAdmin_Bot">⚡ ʜᴇʀᴇ ⚡</a>
 Dᴇᴠᴇʟᴏᴘᴇʀ:</b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -143,7 +143,7 @@ Owner Will Update The Movie Within 24Hour"""
 ⊱⋅ ─────────────── ⋅⊰
 › Avatar ✅
 › Avatar 2009 720p ✅
-› Avatar 2009 720p Hindi ✅
+› Avatar 2009 720p Tamil ✅
 
 › Don't Type Movie Nickname, Don't Use Other Fonts, No Emoji, No Symbols ❌
 """
@@ -152,8 +152,8 @@ Owner Will Update The Movie Within 24Hour"""
 ⚠ How To Request Series ⁉️ »
 ⊱⋅ ─────────────── ⋅⊰
 › Flash S01 ✅
-› Flash Hindi ✅
-› Flash S01E02 Hindi ✅
+› Flash Tamil ✅
+› Flash S01E02 Tamil ✅
 
 › Don't Type Movie Nickname, Don't free Use Other Fonts, No Emoji, No Symbols ❌
 """
